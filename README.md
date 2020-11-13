@@ -80,6 +80,8 @@ Restart your computer.
 
 ## Installing VirtualBox and Vagrant
 
+**NOTE: At a time of this is written, I found that, VIRTUALBOX VER 6.1.16 and VAGRANT 2.2.13 work. (yes even for lhl bootcamp vagrantfile) so install those versions unless you want to try something custom.**
+
 
 ### VirtualBox installation
 
