@@ -70,7 +70,7 @@ Run the command to verify the command DOES NOT WORK:
 
 Run the following command to fix this, otherwise you can skip this step. You may need to run it multiple times.
 
-`sudo apt-get remove --purge virtualbox`
+`sudo apt-get remove --purge virtualbox*`
 
 Run this command to verify that the virtualbox has been uninstalled:
 
